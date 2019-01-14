@@ -1,5 +1,4 @@
 ---
-layout: post
 title: VxWorks bootloader
 categories: [blog, VxWorks]
 description: 记录的是随心所欲

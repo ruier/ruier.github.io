@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Docker数据管理
 categories: [blog, docker]
 description: 记录的是随心所欲

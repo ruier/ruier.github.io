@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 编译和链接
 categories: [blog, c]
 description: 记录的是随心所欲

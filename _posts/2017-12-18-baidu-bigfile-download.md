@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 突破百度云盘的大文件下载限制
 categories: [blog]
 description: 记录的是随心所欲

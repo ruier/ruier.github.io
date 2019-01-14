@@ -1,5 +1,4 @@
 ---
-layout: post
 title: SylixOS 系统初探
 categories: [blog]
 description: 记录的是随心所欲

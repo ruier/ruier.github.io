@@ -1,5 +1,4 @@
 ---
-layout: post
 title: QEMU 模拟运行 VxWorks 6.6 
 categories: [blog, VxWorks, qemu]
 description: 记录的是随心所欲

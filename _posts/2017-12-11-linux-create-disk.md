@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Linux 下制作磁盘镜像
 categories: [blog, linux]
 description: 记录的是随心所欲

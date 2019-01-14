@@ -1,5 +1,4 @@
 ---
-layout: post
 title: VxWorks 6.6 for x86 的启动过程分析 
 categories: [blog, VxWorks]
 description: 记录的是随心所欲

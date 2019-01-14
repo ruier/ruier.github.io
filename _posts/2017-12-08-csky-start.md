@@ -1,5 +1,4 @@
 ---
-layout: post
 title: csky 开发环境搭建
 categories: [blog, buildroot, csky]
 description: 记录的是随心所欲

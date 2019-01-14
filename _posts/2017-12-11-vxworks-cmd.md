@@ -1,5 +1,4 @@
 ---
-layout: post
 title: VxWorks 控制台添加 shell 命令
 categories: [blog, VxWorks, qemu]
 description: 记录的是随心所欲

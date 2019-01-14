@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Android 7.0 进度条显示 
 categories: [blog, android]
 description: 记录的是随心所欲
